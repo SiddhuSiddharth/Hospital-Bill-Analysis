@@ -1,12 +1,12 @@
 # Insurance Prediction
 
 <p align="justify">
-This jupyter notebook is a data visualization project for visualizing the insurance / charges for a particular person, and checking whether is their any bias in the tesing or not. This was purely done in (google.colab)[https://colab.research.google.com/] a tool for python notebooks. Structural equation modelling a trending data visualizing method is being utlized here using necessary libraries. 
+This jupyter notebook is a data visualization project for visualizing the insurance / charges for a particular person, and checking whether is their any bias in the tesing or not. This was purely done in https://colab.research.google.com/ a tool for python notebooks. Structural equation modelling a trending data visualizing method is being utlized here using necessary libraries. 
 </p>
 
 # About the dataset
 
-The dataset s taken from (kaggle)[kaggle.com]
+The dataset is taken from kaggle.com
 
 !(Columns details)[https://github.com/SiddhuSiddharth/Insurance-prediction/blob/999b6cf95a974e22c22594dde5a34722d0e27eeb/Images-readme/Dataset1.png]
 
@@ -33,9 +33,12 @@ Models used are:
 
 There are a couple references for us that helped us to prepare the notebook.
 
-> [!References]
+> References
 > https://www.kaggle.com
+> 
 > https://towardsdatascience.com/
+> 
 > https://pypi.org/
+> 
 > https://semopy.com
 
