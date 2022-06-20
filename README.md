@@ -8,7 +8,7 @@ This jupyter notebook is a data visualization project for visualizing the insura
 
 The dataset is taken from kaggle.com
 
-!(Columns details)[https://github.com/SiddhuSiddharth/Insurance-prediction/blob/999b6cf95a974e22c22594dde5a34722d0e27eeb/Images-readme/Dataset1.png]
+![Columns details](https://github.com/SiddhuSiddharth/Insurance-prediction/blob/999b6cf95a974e22c22594dde5a34722d0e27eeb/Images-readme/Dataset1.png)
 
 This is a view of the columns of the dataset. Which is taken directly from the notebook itself.
 * Column 0 which is the **age** column has values ranging from 0 to 100
@@ -34,6 +34,7 @@ Models used are:
 There are a couple references for us that helped us to prepare the notebook.
 
 > References
+> 
 > https://www.kaggle.com
 > 
 > https://towardsdatascience.com/
