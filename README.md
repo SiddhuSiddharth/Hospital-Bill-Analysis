@@ -1,7 +1,7 @@
 # Insurance Prediction
 
 <p align="justify">
-This jupyter notebook is a data visualization project for visualizing the insurance / charges for a particular person, and checking whether is their any bias in the tesing or not. This was purely done in https://colab.research.google.com/ a tool for python notebooks. Structural equation modelling a trending data visualizing method is being utlized here using necessary libraries. 
+This jupyter notebook is a data visualization project for visualizing the insurance / charges for a particular person, and checking whether is their any bias in the tesing or not. This was purely done in [google.colab](https://colab.research.google.com/) a tool for python notebooks. Structural equation modelling a trending data visualizing method is being utlized here using necessary libraries. 
 </p>
 
 # About the dataset
@@ -18,6 +18,10 @@ This is a view of the columns of the dataset. Which is taken directly from the n
 * Column 4 which is the **smoker** tells whether the person smokes or not. This is vital for determining their current health, and how much bias should we show on his insurance / charges
 * Column 5 which is the **region** in the city where the particular subject lives in is denoted using 4 dual-cardinal directions: SW, NW, NE, SE. We can also use this to determine factors like regional bias or regional habits. Lets say like for example people in SW region smoke a lot or not de to their lifestyle.
 * Column 6 which is the **charges** of the subject, allocated by the insurance company. We do not know what factors they used to predict and allocate the charges value for. So we are going to predict using our own models and check conditions like bias, and in general analyse the dataset.
+
+Here is a brief of the dataset.
+
+![Breifing](https://github.com/SiddhuSiddharth/Insurance-prediction/blob/999b6cf95a974e22c22594dde5a34722d0e27eeb/Images-readme/Dataset2.png)
 
 # Models used
 
